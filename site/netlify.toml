@@ -4,4 +4,4 @@
   publish = "site"
 [build.environment]
   # Change this path with the path to your repository
-  GO_IMPORT_PATH = "github.com/DiegoGca/telegram-echo-bot"
+  GO_IMPORT_PATH = "github.com/DiegoGca/telebott"
